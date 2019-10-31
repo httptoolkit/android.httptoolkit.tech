@@ -1,0 +1,7 @@
+[build]
+  publish = "public/"
+
+[[redirects]]
+    from = "/connect/"
+    to = "https://play.google.com/store/apps/details?id=tech.httptoolkit.android&referrer=:data"
+    query = {data = ":data"}
