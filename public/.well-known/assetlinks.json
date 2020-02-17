@@ -1,11 +1,25 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "tech.httptoolkit.android",
-    "sha256_cert_fingerprints": [
-        "CE:BA:1F:63:D0:8D:D9:AA:91:2A:83:CB:FC:A7:D0:50:5C:9A:30:8E:01:34:3F:4A:4B:92:0F:96:E9:C8:DA:A6",
-        "C6:75:CE:AA:11:D1:3F:AF:25:D4:D4:C0:6A:A4:AC:07:04:D3:CE:74:E8:ED:3E:CA:54:64:86:BA:9F:90:CA:13"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tech.httptoolkit.android",
+      "sha256_cert_fingerprints": [
+          "CE:BA:1F:63:D0:8D:D9:AA:91:2A:83:CB:FC:A7:D0:50:5C:9A:30:8E:01:34:3F:4A:4B:92:0F:96:E9:C8:DA:A6",
+          "C6:75:CE:AA:11:D1:3F:AF:25:D4:D4:C0:6A:A4:AC:07:04:D3:CE:74:E8:ED:3E:CA:54:64:86:BA:9F:90:CA:13",
+          "BB:D3:D4:0E:A6:26:BE:5C:C9:76:A9:62:22:C5:D5:AE:B3:78:8D:FF:15:62:BA:97:C9:08:B6:58:C8:55:DE:89"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tech.httptoolkit.android.v1",
+      "sha256_cert_fingerprints": [
+          "C6:75:CE:AA:11:D1:3F:AF:25:D4:D4:C0:6A:A4:AC:07:04:D3:CE:74:E8:ED:3E:CA:54:64:86:BA:9F:90:CA:13",
+          "BB:D3:D4:0E:A6:26:BE:5C:C9:76:A9:62:22:C5:D5:AE:B3:78:8D:FF:15:62:BA:97:C9:08:B6:58:C8:55:DE:89"
+      ]
+    }
   }
-}]
+]
