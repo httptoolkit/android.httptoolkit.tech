@@ -3,5 +3,5 @@
 
 [[redirects]]
     from = "/connect/"
-    to = "https://play.google.com/store/apps/details?id=tech.httptoolkit.android&referrer=https%3A%2F%2Fandroid.httptoolkit.tech%2Fconnect%2F%3Fdata%3D:data"
+    to = "https://play.google.com/store/apps/details?id=tech.httptoolkit.android.v1&referrer=https%3A%2F%2Fandroid.httptoolkit.tech%2Fconnect%2F%3Fdata%3D:data"
     query = {data = ":data"}
